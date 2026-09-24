@@ -1,0 +1,45 @@
+# variables újrahasnálható
+
+
+
+#strings szöveges cuccok
+first_name = "bro"
+food = "gyros"
+email = "hjdfsj@gmail.com"
+# integers számos cuccok 
+age = 25
+quantity = 3
+num_of_students = 30
+# float tizedes tört 
+price = 10.99
+gpa = 3.2
+distance = 5.9
+
+#boolean  az igaz vagy hamis
+is_student = True
+
+
+if is_student:
+    print("diák vagy")
+else:
+    print("nem vagy diák")    
+
+
+for_sale = True
+
+if for_sale:
+    print("you can buy this")
+else:
+    print("you cant buy this")
+
+
+
+print(f" you ran {distance}km")
+print(f"your gpa is: {gpa} ")
+print(f"the price is ${price}")
+print(f"your class has {num_of_students} students")
+print(f"you are buying {quantity} items")
+print(f"you are {age} old")
+print(f"Hello {first_name}")
+print(f"do you like {food}?")
+print(f"your email is {email}")
