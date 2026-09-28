@@ -3,7 +3,7 @@ response = input("would you like food (Y/N)")
 if response == "Y":
     print("have some food")
 
-elif == "N":
+elif == "k":
     print("you dont get food")
 
 else: 
