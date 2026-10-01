@@ -1,6 +1,6 @@
 import math
 
-muvelet = (input("milyen műveletet akarsz"))
+muvelet = (input("milyen műveletet akarsz "))
     
 szam_1 = int(input("írd be a számot"))
 szam_2 = int(input("írd be a számot"))
