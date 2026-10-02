@@ -3,7 +3,7 @@
 
 x = 3.14
 y = -4
-z = 5
+z = 6
 # result = round(x)   ez kerekíti a számot
 # result = abs(y) abszolútérték
 # result pow(y, z) hatványozás 
