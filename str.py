@@ -10,9 +10,9 @@ name = input("enter your name")
 #name = name.upper() #egesz nagybetu
 #result = name.isdigit() #szam vagy nem
 #result = name.isalpha() #betu vagy nem
-
-
-
+#result = phnoe_number.count("-") szmolja azt a mai "ezen belül van"
+#result = phnoe_number.replace("-", " ") helyettesítő
+#print(help(str)) ha kell a full lista
 
 
 print(result)
