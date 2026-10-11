@@ -8,7 +8,7 @@ while num < 1 or num > 10:
     num = int(input("enter num 1-10"))
 
 
-print(f"your num is {num}")
+print(f"your num is {num} ")
 
 
 
