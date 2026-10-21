@@ -11,3 +11,4 @@ print(groceries[0][0])   # ha egy listából kell 1 valami akkor az első [az ho
 #csak 1 [az a full listát dobja be]
 
 
+ 

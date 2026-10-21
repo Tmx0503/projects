@@ -1,7 +1,7 @@
 
 
 
-capitals = {"usa": "washington",
+capitals = {"usa": "washington ",
             "india": "new delhi",
             "china": "beijing",
             "russia": "moscow"}
