@@ -5,7 +5,7 @@ while True:
 
     if lenght == 0:
         print("ilyen opció nincs")
-        lenght = int(input("milyen hosszú legyen"))
+        lenght = int(input("Milyen hosszú legyen"))
     else:
         break
 #password = random.randint()

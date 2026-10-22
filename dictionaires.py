@@ -11,12 +11,12 @@ capitals = {"usa": "washington ",
 print(capitals.get("usa")) # így kapom meg a fővárost hogy .get() ugye "usa": "és ami itt van "
 
 
-if capitals.get("japan"):
+if capitals.get("Japan"):
     print("létezik")
 else:
     print("nem létezik")
 
-capitals.update({"germany": "berlin"})
+capitals.update({"germany": "Berlin"})
 capitals.pop() # az töröl
 
 keys = capitals.keys()

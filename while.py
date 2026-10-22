@@ -8,7 +8,7 @@ while name == "":
     name = input("eneter your name") # exit strategy ha ez nincs akkor infinite loop következik be
 
 
-print(f"hello {name}")
+print(f"hello {name} ")
 
 
 
