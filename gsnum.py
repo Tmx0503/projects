@@ -12,7 +12,7 @@ print(f"select a num between {lowest_num} and {highest_num}")
 
 while is_running:
 
-    guess = input("enter your guess")
+    guess = input("enter your guess ")
 
 
     if guess.isdigit():
