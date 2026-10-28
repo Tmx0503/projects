@@ -5,7 +5,7 @@ def spin_row():
 
     for symbol in range(3):
         results.append(random.choice(symbols))
-        return results
+    return results
 def print_row(row):
     print(" ".join(row))
 
