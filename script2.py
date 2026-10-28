@@ -1,4 +1,4 @@
-from script1 import *
+from projects.script1 import *
 
 
 def fv_drink(drink):
