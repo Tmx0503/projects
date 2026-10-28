@@ -22,7 +22,7 @@ def withdraw(balance):
     elif amount < 0:
         print(" no")
         return 0
-    else:
+    else: 
         return amount
 def main():
     balance = 0
